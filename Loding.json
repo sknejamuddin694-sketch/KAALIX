@@ -1,13 +1,9 @@
 {
-  "loaderType": "spinner",          // Options: spinner, dots, pulse
-  "loaderColor": "#f5a623",         // Loader color
-  "loaderBackground": "#0b0014",    // Loader background
-  "loaderDuration": 3000,           // Loader duration in ms
-  "entryText": "KAALIX GANG STORE ENTRY",  // Text on entry screen
-  "buttonText": "ENTER",            // Button text
-  "epicAnimationDuration": 1500,    // Animation duration in ms
-  "epicAnimationColorStart": "#f5a623", // Epic animation start color
-  "epicAnimationColorEnd": "#ff0000",   // Epic animation end color
-  "soundURL": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", // Sound effect
-  "iframeLink": "https://kaalix-store.edgeone.app/" // Link to load after animation
+  "logoURL": "https://i.ibb.co/3y0w7bZ/kaalix-logo.png",
+  "iframeLink": "https://kaalix-store.edgeone.app/",
+  "soundURL": "https://mixkit.co/free-stock-music/action/k-o-333016/download/mp3",
+  "backgroundColor": "#000000",
+  "epicAnimationColors": ["#ff00ff", "#00ffff", "#0000ff"],
+  "logoAnimationType": "scale-rotate", 
+  "loaderDuration": 3000
 }
