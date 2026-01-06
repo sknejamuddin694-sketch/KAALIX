@@ -1,2 +1,0 @@
-# KAALIX
-Loding screen 
