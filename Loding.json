@@ -1,15 +1,17 @@
 {
-  "loading_time": 4000,
-  "auto_redirect": true,
+  "loading_time": 3000,
+
+  "sound": {
+    "enable": true,
+    "mp3": "https://files.catbox.moe/9xkz3a.mp3"
+  },
 
   "main_page": {
-    "title": "KAALIX GANG STORE",
-    "open_link": "https://google.com/main"
+    "open_link": "https://example.com"
   },
 
   "update_page": {
     "show": true,
-    "button_text": "UPDATE AVAILABLE",
-    "redirect_link": "https://telegram.com/update"
+    "redirect_link": "https://example.com/update"
   }
 }
