@@ -1,7 +1,9 @@
 {
   "iframeLink": "https://kaalix-store.edgeone.app/",
-  "loaderColor": "#f5a623",
   "backgroundColor": "#0b0014",
+  "loaderColor": "#f5a623",
   "expiryTime": "2026-01-07T23:59:59Z",
-  "loaderType": "spinner"  // options: spinner, dots, bar, bounce, pulse
+  "loaderType": "spinner",        // Options: spinner, dots, bar, bounce, pulse
+  "animationClass": "rotateScale", // Custom animation class name (defined in HTML CSS)
+  "animationSpeed": "1.5s"         // Duration of the animation
 }
