@@ -1,17 +1,15 @@
 {
   "loading_time": 3000,
 
-  "sound": {
-    "enable": true,
-    "mp3": "https://files.catbox.moe/9xkz3a.mp3"
-  },
-
   "main_page": {
-    "open_link": "https://example.com"
+    "open_link": "https://kaalix-store.edgeone.app/"
   },
 
   "update_page": {
-    "show": true,
-    "redirect_link": "https://example.com/update"
+    "force": true,
+    "title": "UPDATE REQUIRED",
+    "message": "Please update to continue",
+    "button_text": "UPDATE NOW",
+    "redirect_link": "https://kaalix-store.edgeone.app/"
   }
 }
