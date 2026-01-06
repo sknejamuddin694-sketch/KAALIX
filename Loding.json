@@ -1,9 +1,15 @@
 {
-  "logoURL": "https://files.catbox.moe/1k4se5.png",
-  "iframeLink": "https://kaalix-store.edgeone.app/",
-  "soundURL": "https://orangefreesounds.com/wp-content/uploads/2025/10/Galaxy-portal-cinematic-music.mp3",
-  "backgroundColor": "#000000",
-  "epicAnimationColors": ["#ff00ff", "#00ffff", "#0000ff"],
-  "logoAnimationType": "scale-rotate", 
-  "loaderDuration": 3000
+  "loading_time": 4000,
+  "auto_redirect": true,
+
+  "main_page": {
+    "title": "KAALIX GANG STORE",
+    "open_link": "https://google.com/main"
+  },
+
+  "update_page": {
+    "show": true,
+    "button_text": "UPDATE AVAILABLE",
+    "redirect_link": "https://telegram.com/update"
+  }
 }
