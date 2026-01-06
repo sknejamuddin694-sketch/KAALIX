@@ -6,7 +6,7 @@
   },
 
   "update_page": {
-    "force": true,
+    "force": false,
     "title": "UPDATE REQUIRED",
     "message": "Please update to continue",
     "button_text": "UPDATE NOW",
